@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dOR1Q4tILruF+h6TZt9uaW4QmXG+qb6hiGAf8lFO4URiG9M1n2ZvBI6y0O6g9gOCJ4vtIVKclgjDi8EfVFrzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buthelezis\\AdaptITAcademy\\AdaptItAcademy.Model\\AdaptItAcademy.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buthelezis\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\buthelezis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
